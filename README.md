@@ -9,8 +9,6 @@
 
 - 📄 Know about my experiences [https://mohammed-ansari-portfolio.netlify.app/Mohammed%20Ansari%20CV%20Resume.pdf](https://mohammed-ansari-portfolio.netlify.app/Mohammed%20Ansari%20CV%20Resume.pdf)
 
-- ⚡ Fun fact **I think i can learn and anything everything**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
